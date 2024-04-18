@@ -4,8 +4,11 @@ Kuja integration/staging tree
 http://www.kujacoin.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
+
 Copyright (c) 2011-2014 Litecoin Developers
+
 Copyright (c) 2024 Kujacoin Developers
+
 
 What is Kuja?
 ----------------
